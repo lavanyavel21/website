@@ -1,2 +1,2 @@
 # website
-<h1>thi is my website</h1>
+<h1>this is my website</h1>
